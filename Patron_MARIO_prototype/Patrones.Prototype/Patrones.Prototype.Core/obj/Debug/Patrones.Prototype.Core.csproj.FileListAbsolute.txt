@@ -1,0 +1,6 @@
+C:\Users\Equipo 1\Downloads\patr-n-prototype-en-csharp-master\Patrones.Prototype\Patrones.Prototype.Core\bin\Debug\Patrones.Prototype.Core.dll
+C:\Users\Equipo 1\Downloads\patr-n-prototype-en-csharp-master\Patrones.Prototype\Patrones.Prototype.Core\bin\Debug\Patrones.Prototype.Core.pdb
+C:\Users\Equipo 1\Downloads\patr-n-prototype-en-csharp-master\Patrones.Prototype\Patrones.Prototype.Core\obj\Debug\Patrones.Prototype.Core.csprojAssemblyReference.cache
+C:\Users\Equipo 1\Downloads\patr-n-prototype-en-csharp-master\Patrones.Prototype\Patrones.Prototype.Core\obj\Debug\Patrones.Prototype.Core.csproj.CoreCompileInputs.cache
+C:\Users\Equipo 1\Downloads\patr-n-prototype-en-csharp-master\Patrones.Prototype\Patrones.Prototype.Core\obj\Debug\Patrones.Prototype.Core.dll
+C:\Users\Equipo 1\Downloads\patr-n-prototype-en-csharp-master\Patrones.Prototype\Patrones.Prototype.Core\obj\Debug\Patrones.Prototype.Core.pdb
