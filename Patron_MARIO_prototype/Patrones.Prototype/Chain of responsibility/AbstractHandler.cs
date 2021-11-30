@@ -4,8 +4,7 @@ using System.Text;
 
 namespace Chain_of_responsibility
 {
-    // The default chaining behavior can be implemented inside a base handler
-    // class.
+    //  El comportamiento de encadenamiento por defecto puede ser implementado dentro de un handler base
     abstract class AbstractHandler :IHandler
     {
     private IHandler _nextHandler;
